@@ -1,1 +1,1 @@
-print('asdsasd')
+print('as')
